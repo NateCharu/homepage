@@ -9,7 +9,7 @@
 | Platform / Course | Focus | Notes |
 |-----------------|-------|-------|
 | [MIT 6.004 Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) | Digital logic, CPUs, FSMs | Core foundation for ECE 270 & beyond |
-| [MIT 6.823 Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2018/) | Pipelining, caches, multicore | Deep architecture layer |
+| [MIT 6.823 Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/) | Pipelining, caches, multicore | Deep architecture layer |
 | [MIT 6.828 Operating System Engineering](https://pdos.csail.mit.edu/6.828/) | OS kernels, memory, concurrency | Learn how software interacts with hardware |
 | [MIT 6.033 Computer System Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) | Distributed systems, fault tolerance | Systems-level thinking |
 
